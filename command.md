@@ -1,0 +1,1 @@
+- `npm i -g nodemon` เหมือน live server ของ back end ลง node แบบ global
